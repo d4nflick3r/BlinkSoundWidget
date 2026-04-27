@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Blink Sound Widget</string>
+    <string name="widget_button_text">Play Sound</string>
+    <string name="widget_description">Home-screen button that plays the Blink sound.</string>
+    <string name="main_instructions">Add the widget to your Android home screen, then press the widget button to play the sound.</string>
+</resources>
